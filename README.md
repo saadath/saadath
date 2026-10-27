@@ -1,4 +1,4 @@
-# Physician | Medical AI | Software Development
+# Physician | Medical AI | Software Development |  Business & Administrative Automation
 
 **Bridging clinical medicine and software engineering to build practical tools for healthcare.**
 
@@ -44,6 +44,9 @@ Building and exploring software solutions across different domains:
 - Python-based desktop applications and automation
 - Medical software utilities
 - Data-driven applications and API integrations
+
+##  Business & Administrative Automation:
+I build software applications for workflow automation across healthcare, business, and administrative operations, with a focus on improving efficiency, productivity, and digital transformation.
 
 ## Technologies & Tools
 
